@@ -1,0 +1,273 @@
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\angular-cli-master
+    1293 text files.
+    1243 unique files.
+     458 files ignored.
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=3.00 s (397.3 files/s, 31616.7 lines/s)"
+800,TypeScript,9537,9999,51258
+135,Markdown,2315,0,9978
+192,JSON,46,0,9469
+32,JavaScript,109,169,786
+16,HTML,43,30,323
+3,YAML,32,43,257
+5,EJS,47,47,224
+1,Skylark,10,16,54
+2,Windows Resource File,7,0,21
+2,Sass,2,4,12
+4,CSS,0,9,3
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\angular-master
+    5984 text files.
+    5261 unique files.
+    2413 files ignored.
+
+4 errors:
+Line count, exceeded timeout:  C:\Users\Caio\Desktop\Base\angular-master/angular-master/aio/aio-builds-setup/dockerbuild/scripts-js/lib/verify-setup/nginx.e2e.ts
+Line count, exceeded timeout:  C:\Users\Caio\Desktop\Base\angular-master/angular-master/packages/common/http/test/xhr_spec.ts
+Line count, exceeded timeout:  C:\Users\Caio\Desktop\Base\angular-master/angular-master/packages/compiler-cli/test/ngc_spec.ts
+Line count, exceeded timeout:  C:\Users\Caio\Desktop\Base\angular-master/angular-master/packages/service-worker/worker/test/happy_spec.ts
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=18.00 s (278.3 files/s, 30685.6 lines/s)"
+3544,TypeScript,55383,63437,306037
+184,Markdown,20817,0,35450
+314,JSON,281,0,19796
+372,JavaScript,2936,3644,16991
+359,HTML,1209,985,8004
+79,CSS,823,150,4590
+49,Sass,657,70,3474
+73,Bourne Shell,567,483,2129
+16,Skylark,300,734,1392
+4,YAML,80,159,781
+6,Bourne Again Shell,38,17,204
+2,Dockerfile,43,44,156
+4,Windows Resource File,36,0,149
+1,Pascal,40,130,109
+2,XML,0,0,16
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\ansible-devel
+   10490 text files.
+    8734 unique files.
+    7775 files ignored.
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=20.00 s (381.5 files/s, 69192.4 lines/s)"
+3671,Python,150234,357053,543088
+2842,YAML,30597,11326,188259
+685,JSON,7,0,37812
+159,PowerShell,3522,2169,18229
+8,CSS,3063,12,13044
+30,XML,7,0,12583
+52,Markdown,1587,0,3679
+102,Bourne Shell,691,464,1779
+19,HTML,176,59,1240
+37,INI,247,0,1193
+10,make,224,72,1114
+6,JavaScript,11,8,117
+1,Go,14,14,61
+1,Velocity Template Language,4,0,22
+2,Tcl/Tk,3,2,21
+1,Dockerfile,3,0,17
+1,C#,1,1,11
+1,TOML,0,0,5
+2,DOS Batch,0,0,4
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\cli-latest
+    3782 text files.
+    3427 unique files.
+    1470 files ignored.
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=6.00 s (513.3 files/s, 70101.2 lines/s)"
+1780,JavaScript,28366,20881,179902
+580,Markdown,24326,2,60834
+506,JSON,65,0,54029
+50,Python,4196,7606,18673
+24,TypeScript,1444,5166,7018
+2,XML,233,11,1948
+11,HTML,81,1,1284
+64,YAML,38,31,924
+4,CSS,45,8,678
+16,Bourne Shell,112,108,667
+5,Windows Module Definition,88,0,437
+3,Lisp,42,38,264
+11,make,103,21,257
+1,C#,55,7,211
+9,CoffeeScript,33,18,141
+4,Bourne Again Shell,7,4,59
+6,DOS Batch,10,0,47
+2,Handlebars,8,0,32
+2,C++,10,19,19
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\Font-Awesome-master
+    5659 text files.
+    5420 unique files.
+    3007 files ignored.
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=6.00 s (448.2 files/s, 26432.3 lines/s)"
+1387,JavaScript,4529,244,58159
+8,JSON,0,0,43000
+4,YAML,0,0,16519
+1219,TypeScript,3,1,14970
+14,CSS,3126,60,6994
+21,Sass,511,34,4287
+21,LESS,508,55,4247
+15,Markdown,402,0,945
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\moby-master
+    5315 text files.
+    5201 unique files.
+    1450 files ignored.
+
+1 error:
+Line count, exceeded timeout:  C:\Users\Caio\Desktop\Base\moby-master/moby-master/vendor/golang.org/x/net/idna/tables.go
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=16.00 s (314.4 files/s, 77606.4 lines/s)"
+4551,Go,118627,125777,913300
+218,Markdown,11629,0,36654
+5,YAML,352,56,10002
+89,Protocol Buffers,1738,4756,4567
+44,Assembly,482,663,4558
+31,Bourne Shell,428,251,2081
+51,Bourne Again Shell,264,206,1288
+10,JSON,2,0,1088
+14,C,256,342,1075
+2,PowerShell,90,127,338
+7,Dockerfile,41,94,205
+1,make,41,27,141
+3,Windows Resource File,10,3,32
+1,Windows Message File,7,0,32
+2,C/C++ Header,5,6,29
+2,vim script,9,5,18
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\patchwork-gh-pages
+    1589 text files.
+    1584 unique files.
+    1587 files ignored.
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=1.00 s (7.0 files/s, 477.0 lines/s)"
+1,CSS,42,2,251
+1,HTML,3,0,64
+1,Handlebars,3,0,48
+4,Markdown,24,0,40
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\react-native-master
+    3292 text files.
+    3198 unique files.
+    1156 files ignored.
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=5.00 s (587.6 files/s, 74896.8 lines/s)"
+899,JavaScript,13489,27840,126460
+700,Java,12394,12861,61554
+258,Objective C,7139,3453,32303
+592,C/C++ Header,7044,9355,18139
+173,C++,3178,2152,15614
+72,Objective C++,2069,1023,8965
+34,Bourne Shell,324,350,1243
+5,HTML,100,5,950
+108,XML,124,245,784
+20,JSON,0,0,681
+23,Markdown,374,0,660
+3,YAML,126,66,571
+14,Gradle,132,305,547
+15,make,94,6,271
+4,Assembly,75,242,191
+1,C,18,26,166
+2,Skylark,66,67,158
+4,DOS Batch,48,4,136
+6,ProGuard,24,48,72
+1,CSS,13,0,68
+2,Bourne Again Shell,7,10,16
+1,Python,3,2,15
+1,Kotlin,5,0,14
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\tensorflow-master
+   12779 text files.
+   12119 unique files.
+    5005 files ignored.
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=30.00 s (302.2 files/s, 90361.6 lines/s)"
+3449,C++,124859,113112,757680
+2873,Python,149063,238847,611481
+1,HTML,5465,0,249672
+1777,C/C++ Header,44499,75134,166853
+31,IPython Notebook,0,0,23848
+32,Go,2300,16914,19584
+182,Markdown,5029,2,18759
+114,Java,3187,5719,15123
+131,Bourne Shell,1802,3805,7383
+48,Skylark,1048,2046,6844
+77,NAnt script,452,0,6535
+109,Protocol Buffers,1742,4833,4718
+54,CMake,561,1101,4116
+37,SWIG,777,806,4007
+16,Objective C++,386,301,1947
+10,C,177,153,1029
+5,make,165,171,950
+54,XML,310,572,848
+8,Maven,36,20,777
+10,Gradle,92,102,492
+5,YAML,38,67,422
+8,JSON,0,0,244
+12,DOS Batch,61,2,240
+5,Bourne Again Shell,46,81,229
+8,Dockerfile,51,95,172
+2,C#,48,29,166
+2,Perl,36,39,152
+1,Cython,28,7,99
+1,Windows Resource File,15,0,59
+4,Objective C,28,52,58
+1,RobotFramework,0,0,50
+
+C:\Users\Caio\Desktop\Base>cloc.exe --csv C:\Users\Caio\Desktop\Base\vscode-master
+    3823 text files.
+    3531 unique files.
+    2094 files ignored.
+
+1 error:
+Line count, exceeded timeout:  C:\Users\Caio\Desktop\Base\vscode-master/vscode-master/src/vs/workbench/test/electron-browser/api/extHostSearch.test.ts
+
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.78  T=13.00 s (233.4 files/s, 70339.2 lines/s)"
+2063,TypeScript,90419,65093,445655
+496,JSON,136,0,247583
+133,JavaScript,1677,3279,38324
+165,CSS,2563,1072,11743
+23,YAML,53,22,902
+37,Markdown,391,0,838
+4,Sass,43,9,732
+24,HTML,113,12,726
+20,Bourne Shell,115,88,623
+4,LESS,14,3,258
+9,DOS Batch,72,0,159
+5,PowerShell,16,13,137
+1,Groovy,65,48,106
+4,Bourne Again Shell,15,38,86
+3,Dockerfile,16,12,85
+1,Python,17,15,65
+2,Perl,13,9,55
+4,XML,0,1,52
+2,Handlebars,7,1,46
+4,C++,8,5,42
+2,PHP,10,5,42
+1,make,14,3,39
+1,Clojure,6,8,38
+1,Objective C,10,9,33
+1,Razor,8,6,32
+2,CoffeeScript,11,0,32
+2,Rust,10,0,31
+1,C,1,2,27
+1,Ruby,6,14,26
+2,HLSL,3,0,25
+1,JSX,6,5,24
+1,Java,8,11,23
+2,Pug,3,5,22
+2,Go,4,1,21
+1,Visual Basic,3,6,16
+1,C#,0,1,16
+1,F#,4,3,11
+1,R,4,9,11
+1,Swift,0,0,10
+1,Lua,1,1,10
+1,INI,1,2,7
+1,SQL,0,0,6
+1,diff,0,2,5
+1,TOML,1,1,4
+
+C:\Users\Caio\Desktop\Base>
